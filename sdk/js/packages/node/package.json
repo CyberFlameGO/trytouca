@@ -50,7 +50,7 @@
     "chalk": "^5.1.2",
     "flatbuffers": "^23.1.21",
     "ini": "^3.0.1",
-    "semver": "^7.3.8",
+    "semver": "^7.5.2",
     "yargs": "^17.6.2"
   },
   "devDependencies": {
